@@ -1,0 +1,4 @@
+tensorflow
+fastapi
+uvicorn[standard]
+pytz
